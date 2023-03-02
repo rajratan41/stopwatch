@@ -4,4 +4,4 @@
 
 [Live Link](https://stopwatcht.netlify.app/)
 
-![Image]()
+![Image](./image/stopwatch.png)
